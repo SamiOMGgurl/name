@@ -1,0 +1,30 @@
+body
+{
+background-color: lightsteelblue;
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h4
+{
+font-size: 20px;
+font-weight: bold;
+}
+
+h3
+{
+font-weight: bolder;
+}
+
+#Volume
+{
+    position: absolute;
+    bottom: 420px;
+    right: 550px;
+}
+
+#Speed
+{
+    position: absolute;
+    bottom: 420px;
+    left: 565px;
+}
